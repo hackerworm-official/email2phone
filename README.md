@@ -35,7 +35,7 @@ python email2phonenumber.py bruteforce -m 555XXX1234 -e target@email.com -p /tmp
 ```
 ## Authors
 ----------------------@hackerworm----------------------- 
-You can contact me on telegram : t.me/hackerw0rm 
+You can contact me on telegram : https://t.me/hackerw0rm 
 
 ## Follow on Instagram :
 https://instagram.com/hacking_worm?utm_medium=copy_link
